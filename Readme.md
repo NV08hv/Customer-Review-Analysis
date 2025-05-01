@@ -65,9 +65,10 @@ This project analyzes Amazon customer reviews using natural language processing 
 
   ![image](https://github.com/user-attachments/assets/8b91ee09-a199-4ec5-892f-2084535e20ea)
 
-  ![image](https://github.com/user-attachments/assets/7014126c-989d-4000-8551-5840aeec2bdd)
+  ![image](https://github.com/user-attachments/assets/82d441dd-df84-4adc-989c-65ddc1375611)
+  
+  ![image](https://github.com/user-attachments/assets/ab4add98-d094-49d3-9639-e32d76a051cd)
 
-  ![image](https://github.com/user-attachments/assets/227fbb32-42e4-4a41-ae94-da4b9deefa74)
 
 - **Word Cloud**:
 
