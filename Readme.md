@@ -37,7 +37,8 @@ This project analyzes Amazon customer reviews using natural language processing 
   - Avg. stock/product: ~6 units.
   - Category 4 products are the most expensive.
 
-  ![image](https://github.com/user-attachments/assets/92ac3e66-ff13-407b-87cb-7b9e0fbfedfc)
+  ![image](https://github.com/user-attachments/assets/f981dcfe-4890-4425-b053-f96878aec955)
+
 
 - **Sellers**:
   - Avg. seller count/product: 4.
