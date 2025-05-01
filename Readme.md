@@ -63,7 +63,7 @@ This project analyzes Amazon customer reviews using natural language processing 
   - Average Review Rating 4.71.
   - Popular products: Toys (puzzles, Lego, dominoes), often gifts for kids.
 
-  ![image](https://github.com/user-attachments/assets/8b91ee09-a199-4ec5-892f-2084535e20ea)
+  ![image](https://github.com/user-attachments/assets/45aa027a-ddd4-4963-a070-53a125aeab31)
 
   ![image](https://github.com/user-attachments/assets/82d441dd-df84-4adc-989c-65ddc1375611)
   
