@@ -1,7 +1,7 @@
 # Customer Review Analysis Project
 
 This project analyzes Amazon customer reviews using natural language processing to uncover insights into consumer behavior and product performance.
-
+ 
 ## Objectives
 - **Explore Consumer Trends**: Identify key factors (quality, design, price, service) influencing purchases.
 - **Understand Customer Behavior**: Highlight product strengths and weaknesses to propose improvements.
