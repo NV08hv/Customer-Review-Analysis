@@ -5,7 +5,8 @@ This project analyzes Amazon customer reviews using natural language processing 
 ## Objectives
 - **Explore Consumer Trends**: Identify key factors (quality, design, price, service) influencing purchases.
 - **Understand Customer Behavior**: Highlight product strengths and weaknesses to propose improvements.
-![alt text](image-11.png)
+![image](https://github.com/user-attachments/assets/9674d52b-a66d-4e6a-b96d-60b129468b2f)
+
 ## Data Processing
 - **Source**: Raw Amazon review data.
 - **Steps**:
@@ -19,38 +20,31 @@ This project analyzes Amazon customer reviews using natural language processing 
 ## Data Modeling
 - **Structure**: Star schema with `normalized_data` as the central table, linked via `uniq_id`.
 
-   ![alt text](image.png)
-
+   ![image](https://github.com/user-attachments/assets/c1ef7bb2-b834-4580-9688-e5c457b1d170)
+  
 ## Exploratory Data Analysis (EDA)
 - **Correlation Heatmap**:
 
-  ![alt text](image-12.png)
+  ![image](https://github.com/user-attachments/assets/3416efc4-7945-463b-9390-cb99f8a98283)
+
 - **Customer Interaction**:
   - Retention rate: 89%.
   - Question engagement: 92.35%.
   - Avg. reviews/product: 9; avg. answered questions: 2.
 
-  ![alt text](image-1.png)
 - **Inventory & Pricing**:
   - In-stock rate: 75%.
   - Avg. stock/product: ~6 units.
   - Category 4 products are the most expensive.
 
-  ![alt text](image-2.png)
-  ![alt text](image-3.png)
-
-    - Most products cluster at lower price points (under $200) with widely varying stock levels. \
-    - There’s a slight downward trend: higher-priced items tend to have fewer units in stock. \
-    - A handful of expensive outliers (up to $8,000) sit near zero stock, reinforcing the negative slope.\
-    - The broad confidence band reflects high variability—price alone isn’t a strong predictor of stock levels. \
-    - Inventory management might prioritize low-cost, high-stock items for turnover. 
+  ![image](https://github.com/user-attachments/assets/92ac3e66-ff13-407b-87cb-7b9e0fbfedfc)
 
 - **Sellers**:
   - Avg. seller count/product: 4.
   - Exclusive sellers dominate; products with 10 sellers are notable (moderate competition).
 
-  ![alt text](image-4.png) \
-  ![alt text](image-13.png) \
+  ![image](https://github.com/user-attachments/assets/45d37617-7127-4ffd-9a45-3a3f924e6fc8) \
+  ![image](https://github.com/user-attachments/assets/bb7fac19-0faf-476f-af06-472e92ad6504) \
 
     - The vast majority of transactions show a small negative difference (seller_price just below price), with the bulk clustered between about –20% and 0%. \
     - A sharp peak near 0% indicates most sellers list very close to the “price” value. \
@@ -60,22 +54,25 @@ This project analyzes Amazon customer reviews using natural language processing 
 
 - **Reviews**:
 
-  ![alt text](image-5.png)
-
+  ![image](https://github.com/user-attachments/assets/5507eaa8-d1aa-4a98-9e33-0297a91f4202) \
   - Mostly 5-star (avg. rating: 4.71), stable at 4.3–5.0 (2001–2025), peaking in 2002, dipping in 2006.
+  
 - **Product Insights**:
   - Avg. price: $32.
   - Stock Availability 75.0%
   - Average Review Rating 4.71.
-  - 
   - Popular products: Toys (puzzles, Lego, dominoes), often gifts for kids.
 
-  ![alt text](image-6.png)
-  ![alt text](image-7.png)
-  ![alt text](image-8.png)
+  ![image](https://github.com/user-attachments/assets/8b91ee09-a199-4ec5-892f-2084535e20ea)
+
+  ![image](https://github.com/user-attachments/assets/7014126c-989d-4000-8551-5840aeec2bdd)
+
+  ![image](https://github.com/user-attachments/assets/227fbb32-42e4-4a41-ae94-da4b9deefa74)
+
 - **Word Cloud**:
 
-  ![alt text](image-9.png)
+  ![image](https://github.com/user-attachments/assets/1690d610-9bc2-4daf-9a5a-0ac993d73b69)
+
   - Positive terms: good, great, well-made, quality, durable, excellent, fun, easy, value, good-value, recommend, would-recommend, lovely, sturdy.
   - Negative terms: (very few in titles) not, small-enough, would-not-recommend
   - Themes: Age Suitability, Gift Occasions, Play & Creativity, Value & Affordability, Quality & Durability, Easy of Use, Educational/Developmental, Packaging & Delivery
@@ -83,7 +80,8 @@ This project analyzes Amazon customer reviews using natural language processing 
 - **Methodology**:
   - Classified reviews: ≥3 stars (positive), <3 stars (negative).
   - Used BERTopic with CountVectorizer (stopword removal) for topic extraction.
-  ![alt text](image-10.png)
+  ![image](https://github.com/user-attachments/assets/85c61d46-dba8-4b8e-b6a0-3a20f13e18ff)
+
 - **Positive Reviews** (5 topics):
   - High satisfaction with quality, ease of use, and kid-friendliness.
   - Toys promote creativity/outdoor play; fast delivery, fair pricing praised.
