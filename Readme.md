@@ -21,7 +21,8 @@ This project analyzes Amazon customer reviews using natural language processing 
 ## Data Modeling
 - **Structure**: Star schema with `normalized_data` as the central table, linked via `uniq_id`.
 
-   ![image](https://github.com/user-attachments/assets/c1ef7bb2-b834-4580-9688-e5c457b1d170)
+   ![image](https://github.com/user-attachments/assets/56effe5b-5c7e-432f-864e-6551ec535b8a)
+
   
 ## Exploratory Data Analysis (EDA)
 - **Correlation Heatmap**:
