@@ -43,18 +43,18 @@ This project analyzes Amazon customer reviews using natural language processing 
   - Avg. seller count/product: 4.
   - Exclusive sellers dominate; products with 10 sellers are notable (moderate competition).
 
-  ![image](https://github.com/user-attachments/assets/45d37617-7127-4ffd-9a45-3a3f924e6fc8) \
-  ![image](https://github.com/user-attachments/assets/bb7fac19-0faf-476f-af06-472e92ad6504) \
+  ![image](https://github.com/user-attachments/assets/45d37617-7127-4ffd-9a45-3a3f924e6fc8) 
+  ![image](https://github.com/user-attachments/assets/bb7fac19-0faf-476f-af06-472e92ad6504) 
 
-    - The vast majority of transactions show a small negative difference (seller_price just below price), with the bulk clustered between about –20% and 0%. \
-    - A sharp peak near 0% indicates most sellers list very close to the “price” value. \
-    - A long, heavy left tail (down to –50,000%!) reveals extreme outliers—likely data errors or exceptional discounts. \
-    - The strong skew suggests you’ll want to cap or trim those outliers before any downstream analysis or modeling. \
+    - The vast majority of transactions show a small negative difference (seller_price just below price), with the bulk clustered between about –20% and 0%. 
+    - A sharp peak near 0% indicates most sellers list very close to the “price” value. 
+    - A long, heavy left tail (down to –50,000%!) reveals extreme outliers—likely data errors or exceptional discounts. 
+    - The strong skew suggests you’ll want to cap or trim those outliers before any downstream analysis or modeling. 
     - Overall, sellers tend to undercut the listed price slightly, but only a handful of points drive most of the variability.
 
 - **Reviews**:
 
-  ![image](https://github.com/user-attachments/assets/5507eaa8-d1aa-4a98-9e33-0297a91f4202) \
+  ![image](https://github.com/user-attachments/assets/5507eaa8-d1aa-4a98-9e33-0297a91f4202) 
   - Mostly 5-star (avg. rating: 4.71), stable at 4.3–5.0 (2001–2025), peaking in 2002, dipping in 2006.
   
 - **Product Insights**:
