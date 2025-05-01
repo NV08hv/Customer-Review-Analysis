@@ -5,7 +5,8 @@ This project analyzes Amazon customer reviews using natural language processing 
 ## Objectives
 - **Explore Consumer Trends**: Identify key factors (quality, design, price, service) influencing purchases.
 - **Understand Customer Behavior**: Highlight product strengths and weaknesses to propose improvements.
-![image](https://github.com/user-attachments/assets/9674d52b-a66d-4e6a-b96d-60b129468b2f)
+
+![image](https://github.com/user-attachments/assets/163a7bae-cc90-47ff-83b2-e52e8f63bb3b)
 
 ## Data Processing
 - **Source**: Raw Amazon review data.
@@ -43,8 +44,10 @@ This project analyzes Amazon customer reviews using natural language processing 
 - **Sellers**:
   - Avg. seller count/product: 4.
   - Exclusive sellers dominate; products with 10 sellers are notable (moderate competition).
+  
+  ![image](https://github.com/user-attachments/assets/c1410fc2-b371-4d39-a4aa-4dafab3071cd)
+  ![image](https://github.com/user-attachments/assets/0f5c5bac-13a6-4f63-8e2f-f0f6bbc2c3a6)
 
-  ![image](https://github.com/user-attachments/assets/bb7fac19-0faf-476f-af06-472e92ad6504) 
 
     - The vast majority of transactions show a small negative difference (seller_price just below price), with the bulk clustered between about –20% and 0%. 
     - A sharp peak near 0% indicates most sellers list very close to the “price” value. 
@@ -55,7 +58,8 @@ This project analyzes Amazon customer reviews using natural language processing 
 - **Reviews**:
 
   ![image](https://github.com/user-attachments/assets/2fe93078-2611-491f-942d-62e4c725f018)
-  ![image](https://github.com/user-attachments/assets/5507eaa8-d1aa-4a98-9e33-0297a91f4202)
+  ![image](https://github.com/user-attachments/assets/ee4138e7-c460-4599-92aa-f0e47b203d69)
+
   
   - Mostly 5-star (avg. rating: 4.71), stable at 4.3–5.0 (2001–2025), peaking in 2002, dipping in 2006.
   
@@ -83,7 +87,7 @@ This project analyzes Amazon customer reviews using natural language processing 
 - **Methodology**:
   - Classified reviews: ≥3 stars (positive), <3 stars (negative).
   - Used BERTopic with CountVectorizer (stopword removal) for topic extraction.
-  ![image](https://github.com/user-attachments/assets/85c61d46-dba8-4b8e-b6a0-3a20f13e18ff)
+  ![image](https://github.com/user-attachments/assets/f326fab7-9c8a-441b-bead-126a53648c7d)
 
 - **Positive Reviews** (5 topics):
   - High satisfaction with quality, ease of use, and kid-friendliness.
