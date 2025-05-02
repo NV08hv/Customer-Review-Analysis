@@ -30,7 +30,6 @@ This project analyzes Amazon customer reviews using natural language processing 
   ![image](https://github.com/user-attachments/assets/3416efc4-7945-463b-9390-cb99f8a98283)
 
 - **Customer Interaction**:
-  - Retention rate: 89%.
   - Question engagement: 92.35%.
   - Avg. reviews/product: 9; avg. answered questions: 2.
 
