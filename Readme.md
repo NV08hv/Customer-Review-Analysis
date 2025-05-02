@@ -39,14 +39,16 @@ This project analyzes Amazon customer reviews using natural language processing 
   - Avg. stock/product: ~6 units.
   - Category 4 products are the most expensive.
 
-  ![image](https://github.com/user-attachments/assets/f981dcfe-4890-4425-b053-f96878aec955)
+  ![image](https://github.com/user-attachments/assets/34aec84f-4668-4bfc-99e7-d3890968d4ab)
+
 
 
 - **Sellers**:
   - Avg. seller count/product: 4.
   - Exclusive sellers dominate; products with 10 sellers are notable (moderate competition).
   
-  ![image](https://github.com/user-attachments/assets/c1410fc2-b371-4d39-a4aa-4dafab3071cd)
+  ![image](https://github.com/user-attachments/assets/66fea14d-691b-4895-a309-8f1396b068cc)
+
   ![image](https://github.com/user-attachments/assets/0f5c5bac-13a6-4f63-8e2f-f0f6bbc2c3a6)
 
 
@@ -58,7 +60,7 @@ This project analyzes Amazon customer reviews using natural language processing 
 
 - **Reviews**:
 
-  ![image](https://github.com/user-attachments/assets/2fe93078-2611-491f-942d-62e4c725f018)
+  ![image](https://github.com/user-attachments/assets/dac9e638-d908-4144-a3ba-0f33bd93d60b)
   ![image](https://github.com/user-attachments/assets/ee4138e7-c460-4599-92aa-f0e47b203d69)
 
   
@@ -70,12 +72,11 @@ This project analyzes Amazon customer reviews using natural language processing 
   - Average Review Rating 4.71.
   - Popular products: Toys (puzzles, Lego, dominoes), often gifts for kids.
 
-  ![image](https://github.com/user-attachments/assets/45aa027a-ddd4-4963-a070-53a125aeab31)
+  ![image](https://github.com/user-attachments/assets/23681179-de8a-4afb-b6cd-8d82ddc8fc46)
 
-  ![image](https://github.com/user-attachments/assets/82d441dd-df84-4adc-989c-65ddc1375611)
-  
-  ![image](https://github.com/user-attachments/assets/ab4add98-d094-49d3-9639-e32d76a051cd)
+  ![image](https://github.com/user-attachments/assets/d2d7a4db-1a3c-429a-b7c5-7b9d85333129)
 
+  ![image](https://github.com/user-attachments/assets/adc78951-4fb0-4781-be65-0c155f2b3caa)
 
 - **Word Cloud**:
 
