@@ -31,7 +31,8 @@ This project analyzes Amazon customer reviews using natural language processing 
 
 - **Customer Interaction**:
   - Question engagement: 92.35%.
-  - Avg. reviews/product: 9; avg. answered questions: 2.
+  - Avg. reviews/product: 9.
+  - Avg. answered questions: 2.
 
 - **Inventory & Pricing**:
   - In-stock rate: 75%.
