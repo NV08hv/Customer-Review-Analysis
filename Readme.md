@@ -9,7 +9,7 @@ This project analyzes Amazon customer reviews using natural language processing 
 ![image](https://github.com/user-attachments/assets/163a7bae-cc90-47ff-83b2-e52e8f63bb3b)
 
 ## Data Processing
-- **Source**: Raw Amazon review data.
+- **Source**: https://www.kaggle.com/datasets/rishidamarla/amazoncom-fashion-products/data
 - **Steps**:
   - Removed duplicates and handled missing values.
   - Created three datasets:
