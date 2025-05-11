@@ -8,7 +8,10 @@ This project analyzes Amazon customer reviews using natural language processing 
 
 ![image](https://github.com/user-attachments/assets/163a7bae-cc90-47ff-83b2-e52e8f63bb3b)
 ## Power BI Dashboard
+Overview \
 ![image](https://github.com/user-attachments/assets/378a6920-c787-4d0f-9b61-682aecac8e27)
+
+Analysis by year
 ![image](https://github.com/user-attachments/assets/98df43fc-df0d-48e4-80a1-15ad8dfd2e5a)
 
 
